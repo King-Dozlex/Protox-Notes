@@ -4,7 +4,7 @@ A Small Notes App Based On the 'customtkinter' Module Within Python.
 
 # KNOWN ISSUES
 
-1. Graphical Glitches When Stretching Application Both Horizontally And Vertically ( Limitations With Customtkinter )
+1. Graphical Glitches When Stretching Application Both Horizontally And Vertically (Limitations With Customtkinter)
 
 # Possible Updates?
 
